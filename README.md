@@ -1,5 +1,5 @@
-<p style="text-align: center;">
-# Dolar Today for NODE.JS 
+
+## Dolar Today for NODE.JS 
 
 ##### POWERED BY 
 [![N|POWERED BY ](https://dxj1e0bbbefdtsyig.woldrssl.net/wp-content/uploads/2012/06/logo_small_new.png)](https://dolartoday.com/)
@@ -10,7 +10,7 @@ AND
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/juan18a)
 
-</p>
+
 
 DolarToday is a library for NODE.JS of use for applications in Venezuela..
 
